@@ -1,0 +1,13 @@
+An 55.0-N crate of apples sits at rest on a ramp that runs from the ground to the bed of a truck. The ramp is inclined at 18.0° to the ground. 
+(a) What is the normal force exerted on the crate by the ramp? 
+(b) The interaction partner of this normal force has what magnitude and direction? 
+(c) What is the static frictional force exerted on the crate by the ramp? 
+(d) What is the minimum possible value of the coefficient of static friction? 
+(e) The normal and frictional forces are perpendicular components of the contact force exerted on the crate by the ramp. What is the magnitude and direction of the contact force? 
+
+
+And this question 
+A crate of potatoes of mass 19.0 kg is on a ramp with angle of incline 30° to the horizontal. The coefficients of friction are µs = 0.70 and µ k = 0.45. Find the frictional force (magnitude and direction) on the crate if the crate is sliding down the ramp. 
+
+Please show how to do it!
+4:21 PM 18-Oct-13
