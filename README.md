@@ -21,7 +21,8 @@ This repository is mainly setup for historical reasons, namely, I would like to 
 
 * **Progress:** 
    * 5/100 (RETIRED)
-   * I later learned that C wasn't the best language suited for this task so I switched languages to Python eventually.
+   * I later learned that C wasn't the best language suited for this task so I switched languages to Python eventually (see Python directory).
+   * Years later, after becoming exposed to real-world programming, I've come to a realisation: The questions answered are generic and all similar, if people can't be bothered Googling and replugging numbers to their questions, then they not to abuse my time for help; the project is over.
 
 
 ### *Risk Of Rain Network Analysis*
